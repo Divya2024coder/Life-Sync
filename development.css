@@ -1,0 +1,53 @@
+#career-development-guidelines {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+  }
+  
+  h2 {
+    text-align: center;
+    font-size: 2em;
+    color: #333;
+  }
+  
+  .resource-category {
+    margin-bottom: 30px;
+  }
+  
+  .resource-category h3 {
+    font-size: 1.5em;
+    color: #0066cc;
+  }
+  
+  .resource-category ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  .resource-category ul li {
+    margin-bottom: 15px;
+  }
+  
+  .resource-category ul li a {
+    color: #0066cc;
+    font-weight: bold;
+    text-decoration: none;
+  }
+  
+  .resource-category ul li a:hover {
+    text-decoration: underline;
+  }
+  
+  .resource-category ul li p {
+    font-size: 0.95em;
+    color: #555;
+  }
+  
+  .resource-category ul li a:visited {
+    color: #444;
+  }
+  
+  #career-development-guidelines a {
+    text-decoration: none;
+  }
+  
